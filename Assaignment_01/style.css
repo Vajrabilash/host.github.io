@@ -1,0 +1,66 @@
+body{
+    background-color:skyblue;
+    
+}
+h4{
+    text-decoration: none;
+    color: black;
+}
+#nav1 ul a:hover{
+    text-decoration: underline;
+}
+header{
+    
+    width:100%;
+    height:50px;
+    margin-top: -8px;
+    margin-left: -8px;
+    background-color:black;
+    position:fixed;
+    
+}
+#log{
+    border-radius:50px;
+    width:45px;
+    display:block;
+    align-items:center;
+    margin-top:2px;
+    
+}
+ul{
+    margin-left:30px;
+    margin-top:-33px;
+}
+ul a{
+    color:white;
+    padding:5px;
+    text-decoration:none;
+}
+il a:hover{
+    text-decoration:underline;
+    font-size:20px;
+}
+#ls1{
+    float:right;
+    margin-right: 30px;
+}
+#sgn :hover {
+    background-color:red;
+    
+}
+#fdimg{
+    width:50%;
+}
+#sgn:hover{
+    border:1px solid blue;
+    border-radius: 20px;
+    
+}
+#lgn:hover{
+    border:1px solid green;
+    border-radius:20px;
+    
+}
+#cnt{
+    margin-left: 610px;
+}

@@ -1,0 +1,145 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color:skyblue;
+}
+.abhdr{
+    width: 100%;
+    height: 25px;
+    background-color:dodgerblue;
+    color: white;
+    justify-content: center;
+    padding: 0px 500px;
+    position: static;
+    
+}
+header{
+    width: 100%;
+    background-color: #fff;
+    position: sticky;
+    top: 0px;
+    padding: 0px;
+    
+    height: 100px;
+}
+header .hdrl{
+    margin-left: 78px;
+    /* border: 2px solid black; */
+    padding: 0px;
+    width: 100px;
+}
+.hdrr p{
+    padding: 0px 450px 0px 720px;
+    color: gray;
+}
+.hdrr button{
+    display: block;
+    margin-top: -50px;
+    margin-left: 75%;
+    background-color: #0084ff;
+}
+header p{
+    margin-top: -26px;
+    padding: 0px;
+    
+}
+header select{
+    margin-left: 180px;
+    margin-top: -50px;
+    display: block;
+    border: none;
+    
+}
+.container01{
+    margin-left: 220px;
+}
+.forimg td img{
+    border-radius: 15px;
+    margin-left:0;
+}
+
+button{
+    border-radius: 25px;
+    padding: 5px 20px;
+    margin: 2px;
+    background: none;
+    border: 1px solid blue;
+    cursor: pointer;
+}
+.scnmn{
+    margin-right: 150px;
+}
+.bxs{
+    border: 1px solid skyblue;
+    background-color: white;
+    border-radius: 5px;
+    height: auto;
+    width: 900px;
+}
+.bxs img{
+    max-width: 100%;
+    max-height: 100%;
+    background-size: cover;
+    /* object-fit: cover; */
+}
+.frpd{
+    padding: 0px 15px;
+}
+.sct{
+    /* border-spacing: 30px; */
+    border-spacing: 15px;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+.sct tr td{
+    width: 450px;
+    height: auto;
+}
+.sct tr td img{ 
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.scnmn table img{
+    box-sizing: border-box;
+    width: 100%;
+    
+}
+footer{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: black;
+    height: auto;
+    padding: 25px;
+}
+.ftr{
+    display: inline-flex;
+    padding: 20px;
+    border-spacing:55px;    
+    margin-bottom: -25px;
+}
+footer div {
+    padding: 0px 85px ;
+}
+footer div ul li{
+    margin: 0px;
+    padding: 0px;
+}
+hr{
+    width: 100%;
+}
+/* .sct tr td{
+    width: 300px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+.sct tr td img{
+    width: 100%;
+    height: 100%;
+    display:;
+} */
+.allb{
+    background-color: #0084ff;
+    color: black;
+}
